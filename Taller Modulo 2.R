@@ -1,3 +1,6 @@
+##ANDREA HUERTAS PEDREROS Y TATIANA ESCALANTE.
+
+
 library(naniar)
 library(tidyverse)
 

@@ -9,7 +9,7 @@ grafico_1 <- ggplot(Spotify, aes(x = danceability, y = valence)) +
   geom_point(color = "blue", alpha = 0.3)
 
 ##PUNTO 2.
-grafico_2 <- ggplot(Spotify, aes(x = as.factor(mode), y = energy, color = mode)) +
+grafico_2 <- ggplot(Spotify, aes(x = as.factor(mode), y = energy, color = as.factor(mode))) +
   geom_boxplot(show.legend = FALSE)
 
 ##PUNTO 3.

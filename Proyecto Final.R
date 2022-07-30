@@ -82,7 +82,7 @@ Data_2.4 %>%
 
 ##Como el código de arrange ordena de menor a mayor, entonces tenemos que la
 ##primera fila corresponde al restaurante mas barato que es: Lamarca con un precio
-##de 15, y el restaurante con precio más caro es: San Domenico con precio de 65.
+##de 19, y el restaurante con precio más caro es: San Domenico con precio de 65.
 
 
 ##2.5. Group_by y Summarise

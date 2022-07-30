@@ -105,9 +105,8 @@ summary(regresion)
 
 ##No todas las variables son estadísticamente significativas, pues la variable 
 ##Service no representa significancia ni al 0.05 ni al 0.10. Por otra parte, la 
-##variable que parece influir más en el precio de la comida es "East" pues lo que nos 
-##da a entender esta variable es que la comida del Oeste genera un mayor precio
-##con un aumento de 2.06 sobre el precio final de la comida.
+##variable que parece influir más en el precio de la comida es "East", ya que muestra que
+##según la zona hay un aumento en el precio de 2.06 en la comida.
 
 
 
